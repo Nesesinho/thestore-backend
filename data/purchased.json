@@ -1,0 +1,8 @@
+{
+    "nome": "Anthony",
+    "idade": 19,
+    "endereço": {
+        "rua": 20,
+        "bairo": "algum ai"
+    }
+}

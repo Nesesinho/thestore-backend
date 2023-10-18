@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1697603372 source:c:\users\antho\documents\codes\thestore-backend\quick\quick\main.cpp
+	<iostream>
+	"menus.h"
+
+1697600498 c:\users\antho\documents\codes\thestore-backend\quick\quick\dataarray.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<windows.h>
+
+1697591023 c:\users\antho\documents\codes\thestore-backend\quick\quick\quick.h
+	<iostream>
+	<cstdio>
+	<ctime>
+	<cstdlib>
+	<windows.h>
+	"DataArray.h"
+
+1697604345 c:\users\antho\documents\codes\thestore-backend\quick\quick\quick\controller.h
+	<iostream>
+	<windows.h>
+	"qndProdutos.h"
+	"../menus.h"
+
+1697604856 c:\users\antho\documents\codes\thestore-backend\quick\quick\quick\qndprodutos.h
+	<iostream>
+	<cstdio>
+	<ctime>
+	<cstdlib>
+	<windows.h>
+	"controller.h"
+	"../DataArray.h"
+
+1697594350 c:\users\antho\documents\codes\thestore-backend\quick\quick\testando.h
+	<iostream>
+	<cstdio>
+	<ctime>
+	<cstdlib>
+	<windows.h>
+	"DataArray.h"
+
+1697604345 c:\users\antho\documents\codes\thestore-backend\quick\quick\menus.h
+	<windows.h>
+	"quick/controller.h"
+

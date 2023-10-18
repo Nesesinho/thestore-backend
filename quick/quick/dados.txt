@@ -1,0 +1,10 @@
+Anthony|19|7|41|450007818000|Play Station 5-4-3600|RTX 3060-10-3500|RTX 4090-9-15300|Iphone 15 Pro-3-10300|MicroLed Sansumg 110-4-1000000|James Webb-9-50000000000|MacBook Air de luxo-2-1800000|--end
+Anthony|19|5|16|4098200|Play Station 5-4-3600|RTX 3060-2-3500|RTX 4090-3-15300|Iphone 15 Pro-3-10300|MicroLed Sansumg 110-4-1000000|--end
+Anthony|19|7|55|450008007200|Play Station 5-4-3600|RTX 3060-10-3500|RTX 4090-18-15300|Iphone 15 Pro-8-10300|MicroLed Sansumg 110-4-1000000|James Webb-9-50000000000|MacBook Air de luxo-2-1800000|--end
+Anthony|19|7|33|450007790000|Play Station 5-4-3600|RTX 3060-2-3500|RTX 4090-9-15300|Iphone 15 Pro-3-10300|MicroLed Sansumg 110-4-1000000|James Webb-9-50000000000|MacBook Air de luxo-2-1800000|--end
+Anthony|19|1|4|14400|Play Station 5-4-3600|--end
+Anthony|19|7|46|450007869500|Play Station 5-4-3600|RTX 3060-10-3500|RTX 4090-9-15300|Iphone 15 Pro-8-10300|MicroLed Sansumg 110-4-1000000|James Webb-9-50000000000|MacBook Air de luxo-2-1800000|--end
+Anthony|19|7|27|450007698200|Play Station 5-4-3600|RTX 3060-2-3500|RTX 4090-3-15300|Iphone 15 Pro-3-10300|MicroLed Sansumg 110-4-1000000|James Webb-9-50000000000|MacBook Air de luxo-2-1800000|--end
+Anthony|19|3|9|67300|Play Station 5-4-3600|RTX 3060-2-3500|RTX 4090-3-15300|--end
+Anthony|19|7|64|450008038700|Play Station 5-4-3600|RTX 3060-19-3500|RTX 4090-18-15300|Iphone 15 Pro-8-10300|MicroLed Sansumg 110-4-1000000|James Webb-9-50000000000|MacBook Air de luxo-2-1800000|--end
+Anthony|19|7|75|450008152000|Play Station 5-4-3600|RTX 3060-19-3500|RTX 4090-18-15300|Iphone 15 Pro-19-10300|MicroLed Sansumg 110-4-1000000|James Webb-9-50000000000|MacBook Air de luxo-2-1800000|--end
